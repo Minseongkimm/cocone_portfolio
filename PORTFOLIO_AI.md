@@ -3,9 +3,7 @@
 
 # AI 활용 포트폴리오: 사바 (사주 AI 대화 앱)
 LLM 기반 AI 사주 상담 앱 사바입니다.
-
-![사주 풀이 앱 홈 화면](assets/home-81d55e57-455c-4223-a73b-08abcb9366e2.png)
-![AI 사주 전문가 채팅 화면](assets/conv2-57275365-a740-42e4-9f6d-9f5c43349253.png)
+<img src="assets/conv2-57275365-a740-42e4-9f6d-9f5c43349253.png" alt="AI 사주 전문가 채팅 화면" width="320" />
 
 ## 프로젝트 개요
 
